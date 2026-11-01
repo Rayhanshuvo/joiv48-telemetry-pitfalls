@@ -1,0 +1,16 @@
+target/
+.idea/
+.vscode/
+*.iml
+.DS_Store
+__pycache__/
+*.pyc
+joiv-venv/
+*.duckdb
+*.duckdb.wal
+container_usage*.csv
+container_meta*.csv
+results_trial/
+hpa-backup.yaml
+k6-job.yaml
+k8s/hpa.yaml

@@ -1,0 +1,1 @@
+{"rate_target":200,"warmup_s":60,"measure_s":120,"window_start_ms":1793502739911,"window_end_ms":1793502859911,"achieved_rps":199.40833333333333,"p95_ms":1496.7204428,"p99_ms":1970.89043124,"error_rate":0.0006686447406912115,"dropped_iterations_measure":72,"dropped_iterations_warmup":1183,"vus_max":600}
